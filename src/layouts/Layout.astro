@@ -13,6 +13,8 @@ import {defaultFavicons} from "../constants/icon";
 import {LIGHT_MODE, DARK_MODE, AUTO_MODE, DEFAULT_THEME} from "../constants/constants";
 import {url} from "../utils/url-utils";
 
+import Lightbox from "@julian_cataldo/astro-lightbox/Lightbox.astro";
+
 interface Props {
 	title: string;
 	banner: string;
@@ -121,6 +123,8 @@ const siteLang = siteConfig.lang.replace('_', '-')
 		</script>
 
 		<slot name="head"></slot>
+		
+		<Lightbox />
 
 		<link rel="stylesheet" href="https://cdn.staticfile.org/KaTeX/0.16.9/katex.min.css" integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV" crossorigin="anonymous">
 
