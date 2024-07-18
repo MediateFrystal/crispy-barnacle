@@ -21,3 +21,7 @@ pnpm-debug.log*
 .DS_Store
 
 .vercel
+
+.history
+
+*.code-workspace
