@@ -9,14 +9,14 @@ import { LinkPreset } from './types/config'
 export const siteConfig: SiteConfig = {
   title: 'MediateFrystal',
   subtitle: 'Test Site',
-  lang: 'Zh_CN', // 'en', 'zh_CN', 'zh_TW', 'ja'
+  lang: 'zh_CN', // 'en', 'zh_CN', 'zh_TW', 'ja'
   themeColor: {
     hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
     fixed: false, // Hide the theme color picker for visitors
   },
   banner: {
     enable: true,
-    src: 'assets/images/demo-banner.png', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'assets/images/pexels-jibarofoto-2471235.jpg', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
   },
   favicon: [
@@ -33,6 +33,8 @@ export const navBarConfig: NavBarConfig = {
   links: [
     LinkPreset.Home,
     LinkPreset.Archive,
+    LinkPreset.Todo,
+    LinkPreset.Changelog,
     LinkPreset.About,
     {
       name: 'GitHub',
@@ -43,7 +45,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/avatar_reisa@220px.png', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'MediateFrystal',
   bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
   links: [
@@ -55,14 +57,24 @@ export const profileConfig: ProfileConfig = {
       url: 'https://x.com',
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
-    },
-    {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/MediateFrystal/',
+    },
+    {
+      name: 'Discord',
+      icon: 'fa6-brands:discord',
+      url: 'https://discordapp.com/users/809782264312758284',
+    },
+    {
+      name: 'QQ',
+      icon: 'fa6-brands:qq',
+      url: 'http://wpa.qq.com/msgrd?v=3&uin=3089574798&site=qq&menu=yes',
+    },
+    {
+      name: '哔哩哔哩',
+      icon: 'fa6-brands:bilibili',
+      url: 'https://space.bilibili.com/172888798',
     },
   ],
 }

@@ -29,8 +29,9 @@ const oklchToHex = str => {
 }
 
 // https://astro.build/config
+// https://crispy-barnacle-btq.pages.dev/
 export default defineConfig({
-  site: 'https://crispy-barnacle-btq.pages.dev/',
+  site: 'https://mfw.zeabur.app/',
   base: '/',
   trailingSlash: 'always',
   integrations: [
