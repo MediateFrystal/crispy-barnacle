@@ -8,6 +8,7 @@
 4. 替换图片
 5. 更新关于页面
 6. Some small improvements
+7. 我知道【文章】test的图裂了，下次修
 
 ---
 
