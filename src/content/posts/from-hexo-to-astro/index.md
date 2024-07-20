@@ -5,7 +5,9 @@ description: '前几天不是说最近不打算转到Astro吗？真香了。既�
 image: ''
 tags: [
     Example, 
-    Tech
+    Tech,
+    Blogging,
+    Fuwari
 ]
 category: 'Tech'
 draft: false 
@@ -155,7 +157,7 @@ npx wrangler pages deploy dist
 
 我们可以照着关于页面复制一个，此时找到 `src/config.ts` ，在 `NavbarConfig` 中添加 `Todo` ：
 
-```TypeScript
+```ts
 export const navBarConfig: NavBarConfig = {
   links: [
     ...

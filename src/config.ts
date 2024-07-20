@@ -47,7 +47,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/avatar_reisa@220px.png', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'MediateFrystal',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  bio: '介导鱼苗',
   links: [
     {
       name: 'X',

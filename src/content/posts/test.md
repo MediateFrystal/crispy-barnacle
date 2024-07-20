@@ -2,7 +2,7 @@
 title: 测试
 published: 2024-07-12
 description: '测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试'
-image: '/src/assets/images/pexels-jibarofoto-2471235.jpg'
+image: '/_astro/pexels-jibarofoto-2471235._mj347ph_Z1aPQ2o.webp'
 tags: [
   Demo,
   Example
@@ -50,15 +50,15 @@ draft: false
 
 ---
 
+![taro paste kid](</_astro/avatar_reisa@220px.CNEub5Fj_V857R.webp> "taro paste kid")
+
+![this is abstract](</_astro/pexels-jibarofoto-2471235._mj347ph_Z1aPQ2o.webp> "this is abstract")
+
 这是一个超超超超超链接：[哔哩哔哩](https://space.bilibili.com/172888798 "劈里啪啦")
 
 网址 <https://mediatefrystal.github.io/>
 
 `https://mediatefrystal.github.io/`
-
-![这是图片](</src/assets/images/avatar_reisa@220px.png> "taro paste kid")
-
-![这是图片](</src/assets/images/pexels-jibarofoto-2471235.jpg> "this is abstract")
 
 This is a regular paragraph.
 

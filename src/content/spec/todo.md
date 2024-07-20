@@ -19,6 +19,7 @@ WIP
 not yet:
 :::
 
+0. 更新mediatefrystal.github.io[VERY SOON!]
 1. 【文章】索尼Xperia XZ的简单体验
 2. 【文章】2024年上手PSP1000
 3. 【功能】RSS订阅
