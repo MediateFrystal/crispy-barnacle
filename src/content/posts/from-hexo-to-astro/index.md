@@ -6,7 +6,7 @@ image: ''
 tags: [
     Example, 
     Tech,
-    Blogging,
+    Blog,
     Fuwari
 ]
 category: 'Tech'

@@ -1,7 +1,7 @@
 
 # 关于
 
-This is my test site, which is powered by [Astro](https://astro.build/) & [Fuwari](https://github.com/saicaca/fuwari). **Still under constructing!**
+This is my test site, which is powered by [Astro](https://astro.build/) & [Fuwari](https://github.com/saicaca/fuwari). **Still under constructing!** (～o￣3￣)～
 ::github{repo="saicaca/fuwari"}
 
 > ### 在本网站中使用的图片的来源
@@ -14,7 +14,10 @@ This is my test site, which is powered by [Astro](https://astro.build/) & [Fuwar
 
 > ### 网站链接
 >
-> - **旧 Github Pages**: <https://mediatefrystal.github.io/>  
+> - **链接站**：<https://mediatefrystal.github.io/>  
+> 有一点点墙[^1]，最好备梯子。
+
+> - **旧 Github Pages**: <https://mediatefrystal.github.io/mfw/>  
 > 有一点点墙[^1]，最好备梯子。
 >
 > - **Netlify**: <https://crispy-barnacle.netlify.app/>  

@@ -4,7 +4,6 @@ published: 2024-07-12
 description: '测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试'
 image: '/_astro/pexels-jibarofoto-2471235._mj347ph_Z1aPQ2o.webp'
 tags: [
-  Demo,
   Example
 ]
 category: 'Examples'

@@ -5,7 +5,7 @@ description: '因为已经用Astro了，现在看这个已经没什么用了。'
 image: './2024-07-15 215045.png'
 tags: [
     Tech,
-    Blogging
+    Blog
 ]
 category: 'Tech'
 draft: false 
