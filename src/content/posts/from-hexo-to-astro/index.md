@@ -1,7 +1,7 @@
 ---
 title: 从Hexo转到Astro
 published: 2024-07-19
-description: '前几天不是说最近不打算转到Astro吗？真香了。既然Fancybox用不了那我就不用了！你们看不清楚就自己想办法吧！'
+description: '前几天不是说最近不打算转到Astro吗？真香了。既然Fancybox用不了那我就不用了！看不清楚就自己想办法吧！ ※ 之后有人创建了issue并且官方已经搞好了，所以看这个并没有什么用'
 image: ''
 tags: [
     Example, 
@@ -415,3 +415,10 @@ fancybox下面的示例给的是html，然后我把它复制到md里面并且修
 然后感觉好像没多少教程，而且托管到github上要用vs code里面的源代码管理，我在那里选择时出现了`fetch failed`，不太清楚怎么回事，开了梯子也没用。
 
 Turn to Astro? 下次一定！
+
+---
+
+### 2024.8.4追加
+
+两周前我看见有一个 [#131](https://github.com/saicaca/fuwari/issues/131)，提到了图片放大的功能，正是我想要的！！而且开发者也说了「This is exactly what I want to implement.」 目前看到官方的示例，已经搞定了。  
+但是更新astro并不是很方便，所以还是等有空再说吧。估计应该是重新生成一个仓库，然后clone到本地，再修改比如顶栏和底栏astro文件吧，应该是大工程。主要是因为我看见现在的底栏多了RSS和Site Map，说明官方改过了这个文件，既然如此还是要手动改一遍。

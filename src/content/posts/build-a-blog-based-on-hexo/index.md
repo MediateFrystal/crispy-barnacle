@@ -1,7 +1,7 @@
 ---
 title: 修建基于Hexo的博客以及踩过的坑
 published: 2024-07-13
-description: '因为已经用Astro了，现在看这个已经没什么用了。'
+description: '※ 因为已经用Astro了，现在看这个已经没什么用了。'
 image: './2024-07-15 215045.png'
 tags: [
     Tech,
